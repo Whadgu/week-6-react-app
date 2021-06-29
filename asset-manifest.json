@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/week-6-react-app/static/css/main.c45f9839.chunk.css",
+    "main.js": "/week-6-react-app/static/js/main.23e7bed8.chunk.js",
+    "main.js.map": "/week-6-react-app/static/js/main.23e7bed8.chunk.js.map",
+    "runtime-main.js": "/week-6-react-app/static/js/runtime-main.f5926ce5.js",
+    "runtime-main.js.map": "/week-6-react-app/static/js/runtime-main.f5926ce5.js.map",
+    "static/js/2.af516f2c.chunk.js": "/week-6-react-app/static/js/2.af516f2c.chunk.js",
+    "static/js/2.af516f2c.chunk.js.map": "/week-6-react-app/static/js/2.af516f2c.chunk.js.map",
+    "static/js/3.413cdd4a.chunk.js": "/week-6-react-app/static/js/3.413cdd4a.chunk.js",
+    "static/js/3.413cdd4a.chunk.js.map": "/week-6-react-app/static/js/3.413cdd4a.chunk.js.map",
+    "index.html": "/week-6-react-app/index.html",
+    "static/css/main.c45f9839.chunk.css.map": "/week-6-react-app/static/css/main.c45f9839.chunk.css.map",
+    "static/js/2.af516f2c.chunk.js.LICENSE.txt": "/week-6-react-app/static/js/2.af516f2c.chunk.js.LICENSE.txt",
+    "static/media/image0.8df1112d.jpeg": "/week-6-react-app/static/media/image0.8df1112d.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5926ce5.js",
+    "static/js/2.af516f2c.chunk.js",
+    "static/css/main.c45f9839.chunk.css",
+    "static/js/main.23e7bed8.chunk.js"
+  ]
+}
